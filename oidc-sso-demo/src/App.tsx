@@ -76,6 +76,7 @@ const LoginButton = styled.button`
   padding: 12.8px 24px;
   margin-bottom: 24px;
   cursor: pointer;
+  background-color: gray;
 `;
 
 
